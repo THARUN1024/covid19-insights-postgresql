@@ -7,7 +7,7 @@ Analyze global COVID-19 data using SQL. This project focuses on data cleaning, t
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 Table: `global_covid_stats`
 
